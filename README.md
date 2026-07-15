@@ -57,7 +57,7 @@ Styling 	QSS (Qt Style Sheets) 	Implementing Glassmorphism and professional visu
 
 Execute the main entry point:
 ```bash
-python main_app.py
+python netcracker_ui.py
 ```
 # 2. Workflow Walkthrough
 
