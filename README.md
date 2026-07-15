@@ -2,8 +2,8 @@
 
 **The Professional Tool for Comprehensive Wireless Penetration Testing.**
 
-***License       Python Version
-MIT License     3.10+***
+***License   MIT License   
+Python Version  3.10+***
 
 NetCracker is an enterprise-grade desktop application designed to provide authorized security professionals with a unified, high-performance platform for conducting deep Wi-Fi security assessments. It moves beyond simple scanners by integrating real-time monitoring, advanced analytical engines, and professional reporting capabilities into one cohesive dashboard.
 ## ✨ Features Overview
